@@ -1,0 +1,28 @@
+body {
+  display: block;
+  height: 100px;
+  width: 300px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#head {
+  display: block;
+  height: 20px;
+  width: 70px;
+  color: #883ae1;
+  border-radius: 100px;
+
+  background-color: #e6d6fc;
+}
+
+#text {
+  display: block;
+  height: 60px;
+  width: 300px;
+}
+
+.text {
+  color: #6c727f;
+}
